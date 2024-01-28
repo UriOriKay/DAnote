@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danote-39f00": {
+      "hosting": {
+        "da-keep": [
+          "danote-39f00"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danote-39f00"
+  }
+}
